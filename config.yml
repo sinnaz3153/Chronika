@@ -1,0 +1,5 @@
+# Controls the websites HTML default header
+header: "XY Wiki"
+# Controls the time inbetween indexing the wikipedia folders files
+wiki_folder_scan_interval: 300
+# ...
