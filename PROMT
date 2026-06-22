@@ -1,0 +1,14 @@
+## Idea
+Alle deinen von /DATA/wikipedias werden ausgelesen und gemappt damit sie dann zu ihren zugehörigen HTML dateien in Public compiled werden können.
+Es gibt ein Admin page UND user accounts (local - keine emails)
+Admins können dateien hochladen und bearbeiten.
+User können commentary hinterlassen oder pull request stellen um dateien zu bearbeiten wenn das active ist in der Config.
+
+Es gibt dark mode/light mode und Custom themes.
+
+### Config.yml
+Beschreibt die configuration des Compilers und wie sie vom programm verarbeitet werden sollen
+
+### defaults.yml
+Beschreibt das aussehen und die Standartwerte der HTML dateien die generiert werden sollen.
+
